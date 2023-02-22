@@ -1,0 +1,63 @@
+h1  {
+margin: auto;
+width:auto
+border-style: double;
+font: bold;
+font: 600px;
+color: black;
+text-align: center;
+}
+
+    
+h2 {
+   margin: auto;
+   height: 90px;
+   font: bold;
+   font-family: 'Times New Roman', Times, serif;
+   font-style: italic;
+   text-align: center;
+   color: grey;
+  }
+
+h3 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+text-decoration: underline;
+}
+
+
+
+h6 {   
+margin-top: 200px;
+
+
+}
+
+
+   #content {
+   margin-top: 90px;
+   float:left;
+   border-right: 10px;  
+   width: 50%
+   
+   
+     }
+
+   aside {
+   
+   float:left;
+   margin-left: 20px;
+   width:50%
+   height:max-content
+   border-color:black;
+   border-left-style: double;
+   
+
+}
+
+
+
+
+
+
+   
